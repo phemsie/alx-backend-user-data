@@ -1,0 +1,12 @@
+api/.DS_Store
+api/__pycache__/__init__.cpython-38.pyc
+api/v1/.DS_Store
+api/v1/__pycache__/__init__.cpython-38.pyc
+api/v1/__pycache__/app.cpython-38.pyc
+api/v1/views/.DS_Store
+api/v1/views/__pycache__/__init__.cpython-38.pyc
+api/v1/views/__pycache__/index.cpython-38.pyc
+api/v1/views/__pycache__/users.cpython-38.pyc
+models/__pycache__/__init__.cpython-38.pyc
+models/__pycache__/base.cpython-38.pyc
+models/__pycache__/user.cpython-38.pyc
